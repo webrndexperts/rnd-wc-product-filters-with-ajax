@@ -1,0 +1,278 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WC Ajax Product Filter\n"
+"POT-Creation-Date: 2016-08-20 20:58+0600\n"
+"PO-Revision-Date: 2016-08-20 20:58+0600\n"
+"Last-Translator: Shamim Al Mamun <shamim.moeen@gmail.com>\n"
+"Language-Team: \n"
+"Language: English\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.4\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop;__;_e;_n\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../wcapf.php:192 ../includes/settings.php:12
+msgid "WC Ajax Product Filter"
+msgstr ""
+
+#: ../wcapf.php:897
+msgid "WC Ajax Product Filter needs WooCommerce plguin to work."
+msgstr ""
+
+#: ../wcapf.php:907
+msgid "To use WC Ajax Product Filter update your WooCommerce plugin."
+msgstr ""
+
+#: ../wcapf.php:919
+msgid "Settings"
+msgstr ""
+
+#: ../widgets/widget-active-filter.php:13
+msgid "WC Ajax Active Filters"
+msgstr ""
+
+#: ../widgets/widget-active-filter.php:14
+msgid "Shows active filters so users can see and deactivate them."
+msgstr ""
+
+#: ../widgets/widget-active-filter.php:56
+msgid "Search For: "
+msgstr ""
+
+#: ../widgets/widget-active-filter.php:60
+msgid "Orderby: "
+msgstr ""
+
+#: ../widgets/widget-active-filter.php:64
+msgid "Min Price: "
+msgstr ""
+
+#: ../widgets/widget-active-filter.php:68
+msgid "Max Price: "
+msgstr ""
+
+#: ../widgets/widget-active-filter.php:142
+#: ../widgets/widget-price-filter.php:170
+#: ../widgets/widget-attribute-filter.php:121
+#: ../widgets/widget-category-filter.php:117
+msgid "Title:"
+msgstr ""
+
+#: ../widgets/widget-active-filter.php:146
+msgid "Button Text:"
+msgstr ""
+
+#: ../widgets/widget-price-filter.php:13
+msgid "WC Ajax Product Filter by Price"
+msgstr ""
+
+#: ../widgets/widget-price-filter.php:14
+msgid "Filter woocommerce products by price."
+msgstr ""
+
+#: ../widgets/widget-price-filter.php:87
+msgid "Min Price"
+msgstr ""
+
+#: ../widgets/widget-price-filter.php:88
+msgid "Max Price"
+msgstr ""
+
+#: ../widgets/widget-price-filter.php:174
+msgid "Display Type:"
+msgstr ""
+
+#: ../widgets/widget-price-filter.php:176
+msgid "Slider"
+msgstr ""
+
+#: ../widgets/widget-price-filter.php:177
+#: ../widgets/widget-attribute-filter.php:146
+#: ../widgets/widget-category-filter.php:123
+msgid "List"
+msgstr ""
+
+#: ../widgets/widget-price-filter.php:182
+msgid "Show currency"
+msgstr ""
+
+#: ../widgets/widget-price-filter.php:188
+#: ../widgets/widget-price-filter.php:196
+#: ../widgets/widget-price-filter.php:208
+msgid "Min price"
+msgstr ""
+
+#: ../widgets/widget-price-filter.php:189
+#: ../widgets/widget-price-filter.php:197
+#: ../widgets/widget-price-filter.php:209
+msgid "to"
+msgstr ""
+
+#: ../widgets/widget-price-filter.php:190
+#: ../widgets/widget-price-filter.php:198
+#: ../widgets/widget-price-filter.php:210
+msgid "Max price"
+msgstr ""
+
+#: ../widgets/widget-price-filter.php:204
+msgid "Add"
+msgstr ""
+
+#: ../widgets/widget-attribute-filter.php:13
+msgid "WC Ajax Product Filter by Attribute"
+msgstr ""
+
+#: ../widgets/widget-attribute-filter.php:14
+msgid "Filter woocommerce products by attribute."
+msgstr ""
+
+#: ../widgets/widget-attribute-filter.php:129
+msgid "Attribute"
+msgstr ""
+
+#: ../widgets/widget-attribute-filter.php:139
+msgid "No attribute found!"
+msgstr ""
+
+#: ../widgets/widget-attribute-filter.php:144
+#: ../widgets/widget-category-filter.php:121
+msgid "Display Type"
+msgstr ""
+
+#: ../widgets/widget-attribute-filter.php:147
+#: ../widgets/widget-category-filter.php:124
+msgid "Dropdown"
+msgstr ""
+
+#: ../widgets/widget-attribute-filter.php:151
+#: ../widgets/widget-category-filter.php:128
+msgid "Query Type"
+msgstr ""
+
+#: ../widgets/widget-attribute-filter.php:153
+#: ../widgets/widget-category-filter.php:130
+msgid "AND"
+msgstr ""
+
+#: ../widgets/widget-attribute-filter.php:154
+#: ../widgets/widget-category-filter.php:131
+msgid "OR"
+msgstr ""
+
+#: ../widgets/widget-attribute-filter.php:159
+#: ../widgets/widget-category-filter.php:136
+msgid "Enable multiple filter"
+msgstr ""
+
+#: ../widgets/widget-attribute-filter.php:163
+#: ../widgets/widget-category-filter.php:140
+msgid "Show count"
+msgstr ""
+
+#: ../widgets/widget-attribute-filter.php:167
+#: ../widgets/widget-category-filter.php:144
+msgid "Show hierarchy"
+msgstr ""
+
+#: ../widgets/widget-attribute-filter.php:171
+#: ../widgets/widget-category-filter.php:148
+msgid "Only show children of the current attribute"
+msgstr ""
+
+#: ../widgets/widget-category-filter.php:13
+msgid "WC Ajax Product Filter by Category"
+msgstr ""
+
+#: ../widgets/widget-category-filter.php:14
+msgid "Filter woocommerce products by category."
+msgstr ""
+
+#: ../includes/functions.php:496
+#, php-format
+msgid "Choose %s"
+msgstr ""
+
+#: ../includes/functions.php:498
+msgid "Choose category"
+msgstr ""
+
+#: ../includes/settings.php:23
+msgid "Filter has been applied and that may modify the settings below."
+msgstr ""
+
+#: ../includes/settings.php:28
+msgid "Shop loop container"
+msgstr ""
+
+#: ../includes/settings.php:32
+msgid ""
+"Selector for tag that is holding the shop loop. Most of cases you won't need "
+"to change this."
+msgstr ""
+
+#: ../includes/settings.php:36
+msgid "No products container"
+msgstr ""
+
+#: ../includes/settings.php:40
+msgid ""
+"Selector for tag that is holding no products found message. Most of cases "
+"you won't need to change this."
+msgstr ""
+
+#: ../includes/settings.php:44
+msgid "Pagination container"
+msgstr ""
+
+#: ../includes/settings.php:48
+msgid ""
+"Selector for tag that is holding the pagination. Most of cases you won't "
+"need to change this."
+msgstr ""
+
+#: ../includes/settings.php:52
+msgid "Overlay background color"
+msgstr ""
+
+#: ../includes/settings.php:56
+msgid "Change this color according to your theme, eg: #fff"
+msgstr ""
+
+#: ../includes/settings.php:60
+msgid "Product sorting"
+msgstr ""
+
+#: ../includes/settings.php:63
+msgid "Check if you want to sort your products via ajax."
+msgstr ""
+
+#: ../includes/settings.php:67
+msgid "Scroll to top"
+msgstr ""
+
+#: ../includes/settings.php:70
+msgid "Check if to enable scroll to top after updating shop loop."
+msgstr ""
+
+#: ../includes/settings.php:74
+msgid "Scroll to top offset"
+msgstr ""
+
+#: ../includes/settings.php:78
+msgid "You need to change this value to match with your theme, eg: 100"
+msgstr ""
+
+#: ../includes/settings.php:82
+msgid "Custom JavaScript after update"
+msgstr ""
+
+#: ../includes/settings.php:86
+msgid ""
+"If you want to add custom scripts that would be loaded after updating shop "
+"loop, eg: alert(\"hello\");"
+msgstr ""
